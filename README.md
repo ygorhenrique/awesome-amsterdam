@@ -3,14 +3,13 @@ A collection of awesome links and useful tips about the city of Amsterdam
 
 ## Municipality
 
-### Belastingen
-https://belastingbalie.amsterdam.nl/
+* [Belastingen](https://belastingbalie.amsterdam.nl)
 
-### Belastingdienst
-https://belastingdienst.nl/
+	* Update your registration address
+	* Pay bills & taxes to the municipality of Amsterdam
 
-### Belastingdienst
-https://belastingdienst.nl/
+* [Belastingdienst](https://belastingdienst.nl)
 
-### Overheid
-https://mijn.overheid.nl/
+* [Belastingdienst](https://belastingdienst.nl)
+
+* [Overheid](https://mijn.overheid.nl)
